@@ -36,3 +36,5 @@ describe('Edgewords Training Recreation', () => {
     checkoutPage.assertOrderIsPlaced();
   })
 })
+
+
